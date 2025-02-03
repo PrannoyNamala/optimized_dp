@@ -7,3 +7,5 @@ from odp.dynamics.Humannoid6D_sys1 import Humanoid_6D
 from odp.dynamics.ROV_WaveBwds_6D import ROV_WaveBwds_6D
 from odp.dynamics.Plane2D import Plane2D
 from odp.dynamics.Plane1D import Plane1D
+from odp.dynamics.PursuitEvasion1v1 import PursuitEvasion1v1
+from odp.dynamics.PursuitEvasion2v1 import PursuitEvasion2v1
